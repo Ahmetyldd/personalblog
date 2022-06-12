@@ -25,8 +25,8 @@ const ContactPage = props => {
         <span className={"nameTitle"}>{config.headerTitle}</span>
         <h2>
           Im a Full Stack Developer at{" "}
-          <a className={"companyButton"} href={"https://www.etiya.com"}>
-            ETIYA
+          <a className={"companyButton"} href={"https://www.fmss.com.tr"}>
+            FMSS
           </a>
         </h2>
         <div className={"resumeDiv"}>
